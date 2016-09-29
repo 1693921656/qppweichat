@@ -3,7 +3,7 @@ html,body{width:100%;height:100%;}
 img{display: block;width:100%;height:100%}
 li{list-style: none;}
 .swiper-container,.swiper-wrapper,.swiper-slide{width:100%;height:100%}
-.swiper-slide{#262f2e background:url(../img/1.jpg) no-repeat center;position: relative;}
+.swiper-slide{ background:#262f2e url(../img/1.jpg) no-repeat center;position: relative;}
 h4{font-size:1.5rem;color:yellowgreen;}
 .page1 .box1{width:80%;height:40%;font-size:1.2rem;color:#fff;font-weight: 700;position: absolute;left:1rem;top:4rem}
 .page1 .box1 img{position: absolute;left:0;top:0}
